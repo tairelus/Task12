@@ -15,6 +15,8 @@ public class Main {
         System.out.println("\nPrint result array:");
         calc.printCalculationResults();
 
+        System.out.println(10.2d + 6.6d);
+
         /*Output is:
         10.2+6.6
 
